@@ -1,0 +1,1 @@
+This project is about analysing impact of Covid 19 in different states and statewise vaccine data.
